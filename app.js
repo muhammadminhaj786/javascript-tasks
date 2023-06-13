@@ -44,3 +44,16 @@ if (amount>= 10 && amount<50){
         // console.log(amount);
     }
 }
+
+
+
+
+//new 
+
+var a = 7
+function foo(){
+    if(a==7){
+    	console.log(a)
+    }
+}
+foo()
